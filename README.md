@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou o Rian Eduardo 👋
 
-<!--
-**rianeduardo/rianeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Estudante de Desenvolvimento
+Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por baixo. Atualmente, estou mergulhado no ecossistema do **Flutter** e explorando diferentes linguagens para entender melhor a lógica de programação. Também sou apaixonado por segurança da informação e pretendo seguir nesse caminho, mais especificamente segurança ofensiva mobile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Linguagens que carrego comigo:
+
+**Linguagens e Tecnologias que domino/estudo:**
+- **Mobile:** Flutter & Dart (Meu foco principal no momento 🚀)
+- **Web:** HTML5, CSS3 e JavaScript
+- **Backend/Sistemas:** Java e Rust (Explorando performance e tipagem forte)
+
+---
+
+### 🚀 O que estou fazendo agora?
+- 📱 Aprimorando o **ACTA**, um app de tarefas para praticar persistência e arquitetura.
+- 🔒 Dando uma olhada em segurança mobile.
+- ☕ Fortalecendo a base de **Java** e Orientação a Objetos.
+
+---
+
+### 📊 Minhas estatísticas
+[![Stats](https://github-readme-stats.vercel.app/api?username=rianeduardo)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Contato
+- Email: rian.contatto2009@outlook.com
