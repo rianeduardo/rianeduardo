@@ -21,10 +21,5 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 
 ---
 
-### 📊 Minhas estatísticas
-[![Stats](https://github-readme-stats.vercel.app/api?username=rianeduardo)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Contato
 - Email: rian.contatto2009@outlook.com
