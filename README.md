@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 ---
 
 ### 🚀 O que estou fazendo agora?
-- 📱 Aprimorando o **ACTA**, um app de tarefas para praticar persistência e arquitetura.
+- 📱 Fabricando o Huntpad, um aplicativo que auxilia nas anotações de ethical-hackers em seus alvos
 - 🔒 Dando uma olhada em segurança mobile.
 - ☕ Fortalecendo a base de **Java** e Orientação a Objetos.
 
