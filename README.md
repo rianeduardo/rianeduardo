@@ -8,9 +8,10 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 ### 🛠️ Linguagens que carrego comigo:
 
 **Linguagens e Tecnologias que domino/estudo:**
-- **Mobile:** Flutter & Dart (Meu foco principal no momento 🚀)
+- **Mobile:** Flutter & Dart (Meu foco principal no momento)
 - **Web:** HTML5, CSS3 e JavaScript
-- **Backend/Sistemas:** Java e Rust (Explorando performance e tipagem forte)
+- **Backend/Sistemas:** Java, Rust (ESTUDANDO), Node.js
+- **Dados:** SQLite & Drift
 
 ---
 
