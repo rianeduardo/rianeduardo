@@ -14,7 +14,7 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 ---
 
 ### 🌠 Minhas estatísticas:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianeduardo&" alt="rianeduardo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianeduardo" alt="rianeduardo" /></p>
 
 ---
 
