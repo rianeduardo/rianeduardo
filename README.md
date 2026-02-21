@@ -1,26 +1,23 @@
 # Olá! Eu sou o Rian Eduardo 👋
 
-### 📚 Estudante de Desenvolvimento
-Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por baixo. Atualmente, estou mergulhado no ecossistema do **Flutter** e explorando diferentes linguagens para entender melhor a lógica de programação. Também sou apaixonado por segurança da informação e pretendo seguir nesse caminho, mais especificamente segurança ofensiva mobile.
+### 📚 Estudante de Desenvolvimento (SENAI & Self-Taught)
+Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por baixo, apaixonado por segurança da informação, cloud e devops. Atualmente, estou estudando bases e sistemas, você pode checar meu progresso no repositório:
+
+<a href="github.com/rianeduardo/notes">github.com/rianeduardo/notes</a>
 
 ---
 
-### 🛠️ Linguagens que carrego comigo:
-
-**Linguagens e Tecnologias que domino/estudo:**
-- **Mobile:** Flutter & Dart (Meu foco principal no momento)
-- **Web:** HTML5, CSS3 e JavaScript
-- **Backend/Sistemas:** Java, Rust (ESTUDANDO), Node.js
-- **Dados:** SQLite & Drift
+### 🚀 O que estou fazendo agora:
+- Mantendo talks diários no meu repositório, comento sobre temas variados
+- Estudando redes, segurança, devops, cloud e muito mais.
 
 ---
 
-### 🚀 O que estou fazendo agora?
-- 📱 Fabricando o Huntpad, um aplicativo que auxilia nas anotações de ethical-hackers em seus alvos
-- 🔒 Dando uma olhada em segurança mobile.
-- ☕ Fortalecendo a base de **Java** e Orientação a Objetos.
+### 🌠 Minhas estatísticas:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianeduardo&" alt="rianeduardo" /></p>
 
 ---
 
-### 📫 Contato
+### 📫 Contato:
 - Email: rian.contatto2009@outlook.com
+- Instagram: @rnepp_
