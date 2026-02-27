@@ -9,6 +9,7 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 
 ### 🚀 O que estou fazendo agora:
 - Mantendo talks diários no meu repositório, comento sobre temas variados
+- Estudando engenharias interessantes, gosto muito de malwares complexos e a rede bitcoin
 - Estudando redes, segurança, devops, cloud e muito mais.
 
 ---
