@@ -8,10 +8,10 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 ---
 
 ### 🚀 O que estou fazendo agora:
-- Mantendo talks diários no meu repositório, comento sobre temas variados
+- Mantendo talks no meu repositório, comento sobre temas variados
 - Estudando engenharias interessantes, gosto muito de malwares complexos e a rede bitcoin
 - Estudando redes, segurança, devops, cloud e muito mais
-- Trabalhando front-end com tailwind/next
+- Trabalhando front-end com tailwind/next, back-end com spring
 
 ---
 
