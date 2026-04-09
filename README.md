@@ -12,6 +12,7 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 - Estudando engenharias interessantes, gosto muito de malwares complexos e a rede bitcoin
 - Estudando redes, segurança, devops, cloud e muito mais
 - Trabalhando front-end com tailwind/next, back-end com spring
+- Dominando web hacking
 
 ---
 
