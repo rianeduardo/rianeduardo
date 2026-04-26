@@ -23,4 +23,3 @@ Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por 
 
 ### 📫 Contato:
 - Email: rian.contatto2009@outlook.com
-- Instagram: @rnepp_
