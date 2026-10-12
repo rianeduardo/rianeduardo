@@ -1,25 +1,27 @@
-# Olá! Eu sou o Rian Eduardo 👋
+### Estudante de Computação & Segurança
 
-### 📚 Estudante de Desenvolvimento (SENAI & Self-Taught)
-Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por baixo, apaixonado por segurança da informação, cloud e devops. Atualmente, estou estudando bases e sistemas, você pode checar meu progresso no repositório:
+> Formação 1: SENAI Americana - ADS
 
-<a href="https://github.com/rianeduardo/notes">github.com/rianeduardo/notes</a>
+Atualmente interessado por engenharia de segurança de hardware e criptografia aplicada
+
+Interesses:
+* Crypto (BTC)
+* Hacking
+* Hardware
+* Pesquisa
+
+Stack:
+* Front: HTML5, CSS3, JS, TS, Next (shadcn/ui), PHP
+* Back: Java Spring
+* Database: PostgreSQL, MongoDB, SQLite
+* Mobile: Dart (Flutter) & ferramentas Android
+
+No planejamento:
+* Rails
+* Rust
+* C++
+* Assembly
 
 ---
 
-### 🚀 O que estou fazendo agora:
-- Mantendo talks no meu repositório, comento sobre temas variados
-- Estudando engenharias interessantes, gosto muito de malwares complexos e a rede bitcoin
-- Estudando redes, segurança, devops, cloud e muito mais
-- Trabalhando front-end com tailwind/next, back-end com spring
-- Dominando web hacking
-
----
-
-### 🌠 Minhas estatísticas:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianeduardo" alt="rianeduardo" /></p>
-
----
-
-### 📫 Contato:
-- Email: rian.contatto2009@outlook.com
+Conteúdo bacana pra ler [aqui](https://github.com/rianeduardo/notes) (projeto vai voltar em breve)
