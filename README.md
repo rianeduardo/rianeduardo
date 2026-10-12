@@ -4,6 +4,8 @@
 
 Atualmente interessado por engenharia de segurança de hardware e criptografia aplicada
 
+Conteúdo bacana pra ler [aqui](https://github.com/rianeduardo/notes) (projeto vai voltar em breve)
+
 Interesses:
 * Crypto (BTC)
 * Hacking
@@ -22,6 +24,4 @@ No planejamento:
 * C++
 * Assembly
 
----
-
-Conteúdo bacana pra ler [aqui](https://github.com/rianeduardo/notes) (projeto vai voltar em breve)
+<img src="./png.png" style="width: 100%; height: auto;">
