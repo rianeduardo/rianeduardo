@@ -3,7 +3,7 @@
 ### 📚 Estudante de Desenvolvimento (SENAI & Self-Taught)
 Sou um entusiasta de tecnologia focado em aprender como as coisas funcionam por baixo, apaixonado por segurança da informação, cloud e devops. Atualmente, estou estudando bases e sistemas, você pode checar meu progresso no repositório:
 
-<a href="github.com/rianeduardo/notes">github.com/rianeduardo/notes</a>
+<a href="https://github.com/rianeduardo/notes">github.com/rianeduardo/notes</a>
 
 ---
 
